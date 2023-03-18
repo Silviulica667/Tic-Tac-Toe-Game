@@ -1,0 +1,19 @@
+
+Jocul Tic Tac Toe
+
+Codul genereaza 9 cercuri si 9 patrate care pot fi mutate, pe rand, incepand cu cercurile, in interiorul unei table cu 9 chenare, 
+figurile trebuie mutate in ordine, incepand cu stanga, utilizatorul poate folosi mouse-ul pentru a le muta,  
+cand 3 figuri de acelasi tip ocupa 3 chenare consecutive pe orizontala, verticala
+sau diagonala, jocul se termina si scorul se incrementeaza.
+
+Se poate juca atat versus 2 jucatori, cat si versus calculatorul.
+
+Din pacate nu am reusit sa scriu functia care determina cand castiga calculatorul.
+
+Jocul poate fi repetat de cate ori doreste utilizatorul, folosind cele 2 butoane de 'retry', iar scorul poate fi resetat.
+
+Am folosit un tutorial pygame de pe youtube pentru a invata cum functioneaza codurile specifice bibliotecii:
+
+https://www.youtube.com/watch?v=AY9MnQ4x3zk&t=7219s&ab_channel=ClearCode
+
+insa liniile nu au fost copiate, ci doar ajustate pentru codul meu, jocurile fiind complet diferite.
